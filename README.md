@@ -1,0 +1,2 @@
+# Discription
+ A simple Real-Time Search Filter built using HTML, CSS, and JavaScript. This project allows users to instantly filter and search through a list of data (like names, products, or items) as they type in the search box
